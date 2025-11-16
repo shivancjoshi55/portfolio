@@ -86,6 +86,7 @@ ul, ol {
 #navli-bottom ul {
   display: flex;
   gap: 10px;
+    color:red;
 }
 #navli-bottom li {
   display: inline-block;
@@ -461,6 +462,7 @@ h1 .grey{
 #project-list li {
   margin-bottom: 8px;             /* spacing between bullets */
 }
+
 
 
 
